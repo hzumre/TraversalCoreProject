@@ -1,0 +1,17 @@
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

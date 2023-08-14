@@ -1,0 +1,14 @@
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
